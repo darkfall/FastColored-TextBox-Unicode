@@ -1,0 +1,217 @@
+C:\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+C:\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+C:\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+C:\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+C:\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.xml
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+C:\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+C:\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+C:\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+C:\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+C:\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.xml
+C:\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\FastColoredTextBox\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+\\samson2\SharedDocs\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+\\samson2\SharedDocs\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+\\samson2\SharedDocs\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+\\samson2\SharedDocs\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+\\samson2\SharedDocs\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.xml
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Decl\Tester.exe
+\\samson2\SharedDocs\FastColoredTextBox\Tester\obj\x86\Debug\Decl\Tester.pdb
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.xml
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SyntaxHighlightingByXmlDescription.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.IMEsample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\TabStrip.dll
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulCSharpEditor.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample2.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutoIndentSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\TabStrip.dll
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.xml
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample2.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutoIndentSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.ImageDrawingSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.IMEsample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulCSharpEditor.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SyntaxHighlightingByXmlDescription.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.csproj.GenerateResource.Cache
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.BookmarksSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.GifImageDrawingSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.TooltipSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\TabStrip.dll
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.xml
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample2.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutoIndentSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.GifImageDrawingSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.IMEsample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulCSharpEditor.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SyntaxHighlightingByXmlDescription.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.TooltipSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.BookmarksSample.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\FromBackup\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.LoggerSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SplitSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\Tester.LazyLoadingSample.resources
+C:\Projects_CSharp\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample2.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutoIndentSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.GifImageDrawingSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.IMEsample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.LazyLoadingSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.LoggerSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulCSharpEditor.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SplitSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SyntaxHighlightingByXmlDescription.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.TooltipSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.BookmarksSample.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+C:\Users\darkfall\Desktop\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.exe
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.pdb
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\bin\Debug\Tester.exe
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\bin\Debug\Tester.pdb
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.dll
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\bin\Debug\FastColoredTextBox.pdb
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutocompleteSample2.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.AutoIndentSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.CustomStyleSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.DynamicSyntaxHighlighting.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.GifImageDrawingSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.IMEsample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.JokeSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.LazyLoadingSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.LoggerSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MarkerToolSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulCSharpEditor.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestCodeFoldingSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SimplestSyntaxHighlightingSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SplitSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.SyntaxHighlightingByXmlDescription.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.TooltipSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.VisibleRangeChangedDelayedSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.MainForm.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.PowerfulSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.BookmarksSample.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\Tester.Properties.Resources.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\Tester\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

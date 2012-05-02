@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TesterVB
+</name>
+</assembly>
+<members>
+<member name="P:TesterVB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TesterVB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TesterVB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:TesterVB.AutocompleteSample2.DeclarationSnippet">
+	<summary>
+ This item appears when any part of snippet text is typed
+ </summary>
+</member><member name="T:TesterVB.AutocompleteSample2.InsertSpaceSnippet">
+	<summary>
+ Divides numbers and words: "123AND456" -&gt; "123 AND 456"
+ Or "i=2" -&gt; "i = 2"
+ </summary>
+</member><member name="T:TesterVB.AutocompleteSample2.InsertEnterSnippet">
+	<summary>
+ Inerts line break after '}'
+ </summary>
+</member>
+</members>
+</doc>

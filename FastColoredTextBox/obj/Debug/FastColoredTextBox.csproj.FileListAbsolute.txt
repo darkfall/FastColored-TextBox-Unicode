@@ -1,0 +1,66 @@
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Documents and Settings\All Users\Документы\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\ResolveAssemblyReference.cache
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\Decl\FastColoredTextBox.dll
+\\samson2\SharedDocs\FastColoredTextBox\FastColoredTextBox\obj\Debug\Decl\FastColoredTextBox.pdb
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\ResolveAssemblyReference.cache
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.csproj.GenerateResource.Cache
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+\\samson\c$\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Projects_CSharp\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\darkfall\Desktop\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+C:\Users\darkfall\Desktop\Projects\FastColoredTextBox\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
