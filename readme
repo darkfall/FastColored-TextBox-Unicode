@@ -1,0 +1,7 @@
+FastColored TextBox by Pavel Torgashov
+Original Code: www.codeproject.com/Articles/161871/Fast-Colored-TextBox-for-syntax-highlighting
+
+Modified by me for better Unicode rendering
+But the overall performace is significantly decreased as the way I modify the code
+Currently only works fine for small files, seeking better solution
+
